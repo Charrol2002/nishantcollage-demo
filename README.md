@@ -1,3 +1,4 @@
 # nishantcollage-demo
 This is my first Git repository
-Auther:Nishant Singh Charrol
+<br>
+Auther-Nishant Singh Charrol
